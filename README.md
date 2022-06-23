@@ -24,7 +24,7 @@ If we don't have to press the shift key, we won't have the input mode shift prob
 
 
 ### 3
-Furthermore, in order to increase our input efficiency, IDE and many other softwares provide us many shortcut keys; the most famous ones are Ctrl+c and Ctrl+v; we use those shortcut keys so frequently, so why don't we use just one key to fulfill these operations? There’s no difficulty with tech to make this happen. why do we press 2 keys if only we have a choice to press 1 to achieve that.  
+Furthermore, in order to increase our input efficiency, IDE and many other softwares provide us many shortcut keys; the most famous ones are Ctrl+c and Ctrl+v; we use those shortcut keys so frequently, so why don't we use just one key to fulfill these operations? There's no difficulty with tech to make this happen. why do we press 2 keys if only we have a choice to press 1 to achieve that.  
 ![ctrl c v](https://raw.githubusercontent.com/Libin410/ProgrammingKeyboard/main/images/ctrl_c_v.jpg "ctrl c v")  
 Well, actually 2 keys shortcut is ok with most of the people; the annoying shortcut is 3 keys shortcut or even 4 keys shortcut; for example: `ctrl+alt+del` or `alt+shift+esc` or `ctrl+shift+alt+j`. 
 For some of the regular combinations, we can arrange them just on one key, and this will make many of our shortcuts much more easier; it's just like the picture below:  
